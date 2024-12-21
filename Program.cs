@@ -4,8 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int x = 29;
+            int y = 4;
+            Console.WriteLine("29 + 4 ={0}",x + y);
             Console.ReadKey();
+            
         }
     }
 }
